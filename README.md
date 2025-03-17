@@ -1,4 +1,5 @@
 # Color Project
+## Overview
 
 This project is a simple web application that changes the background color of the page to a random color when a button is clicked. The new color is also displayed as *text* on the page.
 
