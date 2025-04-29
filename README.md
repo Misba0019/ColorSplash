@@ -1,7 +1,8 @@
 # Color Project
-## Overview
+## Description
 
-This project is a simple web application that changes the background color of the page to a random color when a button is clicked. The new color is also displayed as *text* on the page.
+This project is a simple web application that changes the background color of the page to a random color when a button is clicked.  
+The new color is also displayed as *text* on the page.
 
 ## Features
 
@@ -19,7 +20,7 @@ This project is a simple web application that changes the background color of th
     cd color_project
     ```
 
-## Usage
+## How to use
 
 1. Open `project_color.html` in your web browser.
 2. Click the "Click Me!" button to change the background color to a random color. The new color will be displayed as text on the page.
