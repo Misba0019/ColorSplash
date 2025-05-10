@@ -1,13 +1,20 @@
 # Color Project
-## Description
+## Overview
 
-This project is a simple web application that changes the background color of the page to a random color when a button is clicked.  
+This project is a simple web application that changes the background color of the page to a random color when a button is clicked.
 The new color is also displayed as *text* on the page.
 
 ## Features
 
 - Changes the background color of the page to a random color on button click.
 - Displays the new color as text on the page.
+- Styled using **Bootstrap** for a clean and responsive design.
+
+## Technologies Used
+
+- **HTML5**
+- **Bootstrap 5.3.6**
+- **JavaScript**
 
 ## Installation
 
